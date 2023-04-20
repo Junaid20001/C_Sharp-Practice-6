@@ -1,0 +1,8 @@
+D:\C#\6-Functions & Methods\Practice_6\Practice_6\bin\Debug\Practice_6.exe.config
+D:\C#\6-Functions & Methods\Practice_6\Practice_6\bin\Debug\Practice_6.exe
+D:\C#\6-Functions & Methods\Practice_6\Practice_6\bin\Debug\Practice_6.pdb
+D:\C#\6-Functions & Methods\Practice_6\Practice_6\obj\Debug\Practice_6.csproj.AssemblyReference.cache
+D:\C#\6-Functions & Methods\Practice_6\Practice_6\obj\Debug\Practice_6.csproj.SuggestedBindingRedirects.cache
+D:\C#\6-Functions & Methods\Practice_6\Practice_6\obj\Debug\Practice_6.csproj.CoreCompileInputs.cache
+D:\C#\6-Functions & Methods\Practice_6\Practice_6\obj\Debug\Practice_6.exe
+D:\C#\6-Functions & Methods\Practice_6\Practice_6\obj\Debug\Practice_6.pdb
